@@ -1,2 +1,2 @@
-### Mini Project for Coding Camp Software Engineer by RevoU
+# Mini Project for Coding Camp Software Engineer by RevoU
 Siti Zahra Ananda Kurniawan
